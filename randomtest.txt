@@ -1,0 +1,91 @@
+Testing TREYS random
+Dealt 1 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 0.0%, absolute difference is: 50.11773940345369
+Probability of getting Pair is: 42.256903%, we got: 100.0%, absolute difference is: 57.74309723889556
+Probability of getting Two Pair is: 4.753902%, we got: 0.0%, absolute difference is: 4.75390156062425
+Probability of getting Three of a Kind is: 2.112845%, we got: 0.0%, absolute difference is: 2.112845138055222
+Probability of getting Straight is: 0.392619%, we got: 0.0%, absolute difference is: 0.3926185858958969
+Probability of getting Flush is: 0.19654%, we got: 0.0%, absolute difference is: 0.1965401545233478
+Probability of getting Full House is: 0.144058%, we got: 0.0%, absolute difference is: 0.14405762304921968
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.0%, absolute difference is: 0.024009603841536616
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0%, absolute difference is: 0.0013851694523963432
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 10 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 40.0%, absolute difference is: 10.11773940345369
+Probability of getting Pair is: 42.256903%, we got: 40.0%, absolute difference is: 2.256902761104442
+Probability of getting Two Pair is: 4.753902%, we got: 10.0%, absolute difference is: 5.24609843937575
+Probability of getting Three of a Kind is: 2.112845%, we got: 10.0%, absolute difference is: 7.8871548619447776
+Probability of getting Straight is: 0.392619%, we got: 0.0%, absolute difference is: 0.3926185858958969
+Probability of getting Flush is: 0.19654%, we got: 0.0%, absolute difference is: 0.1965401545233478
+Probability of getting Full House is: 0.144058%, we got: 0.0%, absolute difference is: 0.14405762304921968
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.0%, absolute difference is: 0.024009603841536616
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0%, absolute difference is: 0.0013851694523963432
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 100 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 48.0%, absolute difference is: 2.1177394034536903
+Probability of getting Pair is: 42.256903%, we got: 43.0%, absolute difference is: 0.7430972388955581
+Probability of getting Two Pair is: 4.753902%, we got: 5.0%, absolute difference is: 0.24609843937574993
+Probability of getting Three of a Kind is: 2.112845%, we got: 2.0%, absolute difference is: 0.112845138055222
+Probability of getting Straight is: 0.392619%, we got: 1.0%, absolute difference is: 0.6073814141041032
+Probability of getting Flush is: 0.19654%, we got: 1.0%, absolute difference is: 0.8034598454766522
+Probability of getting Full House is: 0.144058%, we got: 0.0%, absolute difference is: 0.14405762304921968
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.0%, absolute difference is: 0.024009603841536616
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0%, absolute difference is: 0.0013851694523963432
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 1000 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 52.1%, absolute difference is: 1.9822605965463111
+Probability of getting Pair is: 42.256903%, we got: 41.5%, absolute difference is: 0.7569027611044419
+Probability of getting Two Pair is: 4.753902%, we got: 3.8%, absolute difference is: 0.9539015606242502
+Probability of getting Three of a Kind is: 2.112845%, we got: 2.5%, absolute difference is: 0.387154861944778
+Probability of getting Straight is: 0.392619%, we got: 0.0%, absolute difference is: 0.3926185858958969
+Probability of getting Flush is: 0.19654%, we got: 0.0%, absolute difference is: 0.1965401545233478
+Probability of getting Full House is: 0.144058%, we got: 0.1%, absolute difference is: 0.044057623049219674
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.0%, absolute difference is: 0.024009603841536616
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0%, absolute difference is: 0.0013851694523963432
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 10000 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 49.76%, absolute difference is: 0.35773940345369226
+Probability of getting Pair is: 42.256903%, we got: 42.45%, absolute difference is: 0.19309723889556096
+Probability of getting Two Pair is: 4.753902%, we got: 4.84%, absolute difference is: 0.08609843937574979
+Probability of getting Three of a Kind is: 2.112845%, we got: 2.18%, absolute difference is: 0.06715486194477815
+Probability of getting Straight is: 0.392619%, we got: 0.39%, absolute difference is: 0.0026185858958968633
+Probability of getting Flush is: 0.19654%, we got: 0.18%, absolute difference is: 0.01654015452334781
+Probability of getting Full House is: 0.144058%, we got: 0.15%, absolute difference is: 0.005942376950780315
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.05%, absolute difference is: 0.025990396158463387
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0%, absolute difference is: 0.0013851694523963432
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 100000 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 49.82%, absolute difference is: 0.29773940345369
+Probability of getting Pair is: 42.256903%, we got: 42.532%, absolute difference is: 0.2750972388955546
+Probability of getting Two Pair is: 4.753902%, we got: 4.846%, absolute difference is: 0.09209843937575002
+Probability of getting Three of a Kind is: 2.112845%, we got: 2.067%, absolute difference is: 0.045845138055221835
+Probability of getting Straight is: 0.392619%, we got: 0.363%, absolute difference is: 0.029618585895896887
+Probability of getting Flush is: 0.19654%, we got: 0.2%, absolute difference is: 0.003459845476652207
+Probability of getting Full House is: 0.144058%, we got: 0.146%, absolute difference is: 0.0019423769507803113
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.024%, absolute difference is: 9.603841536615088e-06
+Probability of getting Straight Flush is: 0.001385%, we got: 0.002%, absolute difference is: 0.0006148305476036569
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
+Testing TREYS random
+Dealt 1000000 times
+Flush calc example eq: times_flush_fallen / all_games
+Probability of getting High Card is: 50.117739%, we got: 50.113%, absolute difference is: 0.004739403453690727
+Probability of getting Pair is: 42.256903%, we got: 42.2718%, absolute difference is: 0.014897238895557052
+Probability of getting Two Pair is: 4.753902%, we got: 4.7347%, absolute difference is: 0.019201560624249936
+Probability of getting Three of a Kind is: 2.112845%, we got: 2.1259%, absolute difference is: 0.013054861944778118
+Probability of getting Straight is: 0.392619%, we got: 0.3924%, absolute difference is: 0.00021858589589685007
+Probability of getting Flush is: 0.19654%, we got: 0.196%, absolute difference is: 0.0005401545233477967
+Probability of getting Full House is: 0.144058%, we got: 0.1398%, absolute difference is: 0.004257623049219672
+Probability of getting Four of a Kind is: 0.02401%, we got: 0.0246%, absolute difference is: 0.0005903961584633848
+Probability of getting Straight Flush is: 0.001385%, we got: 0.0018%, absolute difference is: 0.0004148305476036568
+Probability of getting Royal Flush is: 0.000154%, we got: 0.0%, absolute difference is: 0.000153907716932927
